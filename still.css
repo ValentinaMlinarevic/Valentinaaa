@@ -1,0 +1,8 @@
+@charset "UTF-8";
+h1, h2, h3 {color: darkolivegreen;
+}
+h3 {
+  font-size: 40px;
+}
+body {
+background-image: url(slike/pozadina.jpeg);}
